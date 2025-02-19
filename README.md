@@ -1,7 +1,49 @@
+# Vivian Angela
+
+# Educational Background
+- BA, UKRIDA, Indonesia
+- Chinese Language Center of Tunghai University, Taiwan
+
+# Work Experience
+- Research center
+- Psychology Service Center
+
+# Skills
+- Language (English, German, Chinese)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # DSGM 2024 Data Science for Global Manager
 
 This is a great course. You must bring your friends!
+
 I like this course very much.
+
 I will bring two more friends next week.
 
 # Introduction
@@ -23,3 +65,5 @@ Downey, A. (2014). [Think Python. How to Think Like a Computer Scientist](https:
 # References
 
 Python Tutorial [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
+
+
